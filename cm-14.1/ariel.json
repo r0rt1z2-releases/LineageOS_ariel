@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1731167523,
-      "filename": "lineage-14.1-20241109-UNOFFICIAL-ariel.zip",
-      "id": "65084818c49332e5c81abb33c728598d",
+      "datetime": 1731428555,
+      "filename": "lineage-14.1-20241112-UNOFFICIAL-ariel.zip",
+      "id": "66fe6606433e86bad00c5a4e0de27d75",
       "romtype": "unofficial",
-      "size": 276538308,
-      "url": "https://github.com/r0rt1z2-releases/LineageOS_ariel/releases/download/20241109/lineage-14.1-20241109-UNOFFICIAL-ariel.zip",
+      "size": 276543101,
+      "url": "https://github.com/r0rt1z2-releases/LineageOS_ariel/releases/download/20241112/lineage-14.1-20241112-UNOFFICIAL-ariel.zip",
       "version": "14.1"
     }
   ]
